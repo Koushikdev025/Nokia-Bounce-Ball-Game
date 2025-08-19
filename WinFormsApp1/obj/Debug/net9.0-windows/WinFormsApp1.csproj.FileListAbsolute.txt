@@ -1,0 +1,14 @@
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+J:\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+J:\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.deps.json
+J:\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.runtimeconfig.json
+J:\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+J:\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.pdb
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+J:\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll
