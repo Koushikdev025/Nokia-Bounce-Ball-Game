@@ -81,7 +81,7 @@ namespace BounceBallGame
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            int moveSpeed = 20;
+            int moveSpeed = 25;
             if (e.KeyCode == Keys.Left && paddleX > 0)
                 paddleX -= moveSpeed;
             else if (e.KeyCode == Keys.Right && paddleX + paddleWidth < this.ClientSize.Width)
