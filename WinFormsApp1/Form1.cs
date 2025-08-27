@@ -23,7 +23,7 @@ namespace BounceBallGame
         {
             InitializeComponent();
             this.DoubleBuffered = true;
-            this.Width = 500;
+            this.Width = 502;
             this.Height = 500;
             this.Text = "Bounce Ball - Nokia Style";
 
