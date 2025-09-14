@@ -8,7 +8,7 @@ namespace BounceBallGame
     {
         private int ballX = 5;
         private int ballY = 5;
-        private int ballSize = 20;
+        private int ballSize = 21;
         private int paddleWidth = 100;
         private int paddleHeight = 10;
         private int paddleX;
